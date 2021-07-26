@@ -56,3 +56,10 @@ div.respuesta input{
     color:white;
     border: 1px solid greenyellow;
 }
+#suma, #resta, #multiplicar, #division, #porcentaje{
+    background-color: #45857c;
+    color: white;
+    border: 1px solid #777;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serifgi;
+}
